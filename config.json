@@ -1,0 +1,8 @@
+{
+  "db": {
+    "host": "vibemartdb.cligmosa22xx.eu-west-1.rds.amazonaws.com",
+    "user": "anandwani",
+    "password": "V1bem*rt95",
+    "database": "vibemart"
+  }
+}
